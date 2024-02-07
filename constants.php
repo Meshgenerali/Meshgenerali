@@ -1,4 +1,4 @@
 <?php
-define('SITEURL', "http://127.0.0.1/portfolio/");
+define('SITEURL', "https://vercel.com/meshack-malonzas-projects/meshgenerali/");
 
 ?> 
